@@ -9,6 +9,8 @@
   },
   "homepage": "https://daylytix.com",
   "license": "MIT",
+  "privacyPolicyUrl": "https://daylytix.com/privacy",
+  "icon": ".claude-plugin/icon.png",
   "keywords": [
     "seo",
     "geo",
