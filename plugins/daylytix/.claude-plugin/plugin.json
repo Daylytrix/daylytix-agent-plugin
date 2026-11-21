@@ -8,6 +8,10 @@
     "url": "https://daylytix.com"
   },
   "homepage": "https://daylytix.com",
+  "repository": "https://github.com/Daylytrix/daylytix-agent-plugin",
+  "documentationUrl": "https://daylytix.com/kb/integrations-mcp",
+  "supportUrl": "https://daylytix.com/contact",
+  "termsOfServiceUrl": "https://daylytix.com/terms",
   "license": "MIT",
   "privacyPolicyUrl": "https://daylytix.com/privacy",
   "icon": ".claude-plugin/icon.png",
