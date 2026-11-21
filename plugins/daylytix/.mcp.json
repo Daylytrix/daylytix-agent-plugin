@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "daylytix": {
+      "type": "http",
+      "url": "https://app.daylytix.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "daylytix",
+  "version": "0.1.0",
+  "description": "Daylytix for AI agents: SEO and GEO audits, Search Console, Google Analytics, AI visibility and keyword research, with ready workflows for audit reviews, client reports, keyword plans, AI visibility, local SEO and project setup.",
+  "author": {
+    "name": "Daylytix",
+    "url": "https://daylytix.com"
+  },
+  "homepage": "https://daylytix.com",
+  "keywords": [
+    "seo",
+    "geo",
+    "ai-visibility",
+    "search-console"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Daylytix",
+    "shortDescription": "SEO and GEO audits for your AI agent.",
+    "longDescription": "Daylytix for AI agents: SEO and GEO audits, Search Console, Google Analytics, AI visibility and keyword research, with ready workflows for audit reviews, client reports, keyword plans, AI visibility, local SEO and project setup."
+  }
+}
